@@ -14,5 +14,5 @@ This is a remote access tool (RAT) that uses discord as a C2.
 - Screenshots
 - Microphone listening
 - Shell
-- Download/updload files
+- Download/upload files
 - Version control
